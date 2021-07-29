@@ -1,0 +1,25 @@
+.banner {
+  padding: 200px 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  color:  white;
+}
+
+.container-calltoaction {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container-calltoaction > p {
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+.container-calltoaction > a {
+  display: inline-block;
+  padding: 12px 30px;
+  border-radius: 30px;
+  background-color: aqua;
+  color: white;
+}
